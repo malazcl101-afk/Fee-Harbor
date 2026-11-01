@@ -1,0 +1,7 @@
+Fee Harbor — School Fee Office (Multi-Branch Edition)
+Extract this ZIP and open index.html in a modern desktop browser.
+Open guide.html for setup, branches, fee heads, fee workflow, printing and backup instructions.
+Set up your branches first in Settings, then classes and fees per branch, then students.
+English only. PKR only. Records save to this browser/device.
+No cloud sync, bank integration or staff login. All branches live in this one copy; separate copies on other computers do not sync.
+Back up after each session, and keep a session-end backup as your archive.
