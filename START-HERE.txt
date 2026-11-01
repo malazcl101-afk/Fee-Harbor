@@ -4,4 +4,5 @@ Open guide.html for setup, branches, fee heads, fee workflow, printing and backu
 Set up your branches first in Settings, then classes and fees per branch, then students.
 English only. PKR only. Records save to this browser/device.
 No cloud sync, bank integration or staff login. All branches live in this one copy; separate copies on other computers do not sync.
+Hosted copy: the link can also be installed as an app from Chrome or Edge (Install app / Add to Home screen) and then opens offline on that device; records still live in that browser only.
 Back up after each session, and keep a session-end backup as your archive.
