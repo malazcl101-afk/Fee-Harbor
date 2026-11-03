@@ -2,7 +2,7 @@
    installs as an app and opens offline after the first online visit.
    Data lives in IndexedDB in the browser; this worker only caches files.
    Bump CACHE when shipping a new build so old caches are replaced. */
-var CACHE = 'fee-harbor-v1';
+var CACHE = 'fee-harbor-v2';
 var ASSETS = [
   './',
   './index.html',
